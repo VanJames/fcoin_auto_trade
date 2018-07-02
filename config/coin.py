@@ -1,0 +1,8 @@
+# -- coding: UTF-8 --
+DEBUG = 0
+
+FCOIN_API_KEY = '0a075c09377a4408aee629523305e74c'
+
+FCOIN_SECRET_KEY = '55bff96e0ab342caaab15eefe562c781'
+
+TIMEOUT = 60
